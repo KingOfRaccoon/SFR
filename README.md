@@ -5,7 +5,7 @@
 - Git
 
 <b>СРЕДА ЗАПУСКА</b>
-- требуется Adnroid SDK
+- требуется Android SDK
 
 <b>РАЗРАБОТЧИКИ</b>
 - Звездаков Александр https://t.me/KingOfRaccoons
